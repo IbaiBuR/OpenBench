@@ -1,12 +1,12 @@
 {
     "private" : false,
-    "nps"     : 12110000,
+    "nps"     : 7985000,
     "source"  : "https://github.com/IbaiBuR/Baryonyx",
 
     "build" : {
         "path"      : "",
         "compilers" : ["clang++", "g++"],
-        "cpuflags"  : ["POPCNT"],
+        "cpuflags"  : [],
         "systems"   : ["Linux"]
     },
 
