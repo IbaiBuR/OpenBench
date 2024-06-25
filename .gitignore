@@ -18,3 +18,7 @@ Media/*
 Media/PGNs/*
 Media/Networks/*
 Media/Events/*
+
+.stfolder/*
+Backups/*
+server.sh
