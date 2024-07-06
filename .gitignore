@@ -21,4 +21,4 @@ Media/Events/*
 
 .stfolder/*
 Backups/*
-server.sh
+*.sh
