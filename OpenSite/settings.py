@@ -85,7 +85,8 @@ WSGI_APPLICATION = 'OpenSite.wsgi.application'
 
 # CSRF Trusted Origins
 CSRF_TRUSTED_ORIGINS = [
-        'https://openbench.chessnibble.com'
+        'https://openbench.chessnibble.com',
+        'https://ob.chessnibble.com'
 ]
 
 # Database

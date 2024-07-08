@@ -1,6 +1,6 @@
 {
     "private" : false,
-    "nps"     : 7985000,
+    "nps"     : 6750000,
     "source"  : "https://github.com/IbaiBuR/Baryonyx",
 
     "build" : {
